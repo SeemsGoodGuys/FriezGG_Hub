@@ -28,7 +28,7 @@ mainopens.Parent = mainopen
  loki.BackgroundTransparency = 1.000
  loki.Position = UDim2.new(-0.0529999994, 0, -0.244000003, 0)
  loki.Size = UDim2.new(0, 69, 0, 62)
- loki.Image = "rbxassetid://14210344780"
+ loki.Image = "rbxassetid://12426728665"
  
  posto.Name = "posto"
  posto.Parent = mainopen
@@ -306,7 +306,7 @@ mainopens.Parent = mainopen
  Logo.BackgroundTransparency = 1.000
  Logo.Position = UDim2.new(-0.01, 0,-0.319, 0)
  Logo.Size = UDim2.new(0, 55,0, 45)
- Logo.Image = "rbxassetid://14210344780"..tostring(logo)
+ Logo.Image = "rbxassetid://"..tostring(logo)
  
  local Name = Instance.new("TextLabel")
  Name.Name = "Name"
