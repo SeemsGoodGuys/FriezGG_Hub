@@ -725,17 +725,17 @@ end
  TextBtn.Text = text
  TextBtn.TextColor3 = Color3.fromRGB(0, 0, 0)
  TextBtn.TextSize = 12.000
- 
+
  UICorner_2.CornerRadius = UDim.new(0, 5)
  UICorner_2.Parent = TextBtn
  
- White.Name = "White"
- White.Parent = Button
- White.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
- White.BackgroundTransparency = 1.000
- White.BorderSizePixel = 0
- White.Position = UDim2.new(0, 1, 0, 1)
- White.Size = UDim2.new(0, 310, 0, 29)
+ Black.Name = "Black"
+ Black.Parent = Button
+ Black.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+ Black.BackgroundTransparency = 1.000
+ Black.BorderSizePixel = 0
+ Black.Position = UDim2.new(0, 1, 0, 1)
+ Black.Size = UDim2.new(0, 310, 0, 29)
  
  UICorner_3.CornerRadius = UDim.new(0, 5)
  UICorner_3.Parent = Black
